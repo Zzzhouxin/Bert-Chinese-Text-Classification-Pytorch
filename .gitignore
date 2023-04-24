@@ -2,3 +2,4 @@
 /bert_pretrain/vocab.txt
 /bert_pretrain/config.json
 *.ckpt
+/Dscan_result/data/*
